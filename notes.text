@@ -1,0 +1,14 @@
+to get the image----
+go to website right click go to inspect in  head tag fevicon--right click go to new tab save the image
+
+in html type link select favicon in href--favicon.ico --type--image/path
+alpha web--inspect--css fimd the code of image click with new tab save the image
+
+for font of alpha html go to website right click inspect search for font family
+go to eye dropper
+go to google fonts-select the link search for source sans pro select extra light 200 copy link paste in css
+
+MARQUEE --use to move the word from left to right n viceversa
+scrollamounto givr the speed
+bootstrap depends on class use to avoid css
+2 types local computers
